@@ -1,0 +1,24 @@
+Ship Scripts
+- Movement
+-- WASDMovement (player-only)
+-- BasicMovement (ConstantForce)
+
+- Turning
+-- FollowMouse
+-- BasicTurning
+-- FollowTarget
+
+- Attacking
+-- InputKeyAttack (player-only)
+-- IntervalAttack
+-- SurroundAttack
+
+- Damage
+-- DamageOnImpact
+-- DamageOverTime
+
+- Misc
+-- SetPlayerAsTarget
+-- Expiration
+-- ShipBehavior
+-- ChangeTarget
