@@ -1,8 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-// TODO: Should be called DamageOnImpact
-public class Kamikazee : MonoBehaviour {
+public class DamageOnImpact : MonoBehaviour {
 	
 	public int damage = 50;
 	
